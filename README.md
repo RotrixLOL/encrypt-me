@@ -69,7 +69,6 @@ curl -L https://raw.githubusercontent.com/RotrixLOL/encrypt-me/main/install.sh |
 ## TODO
 
 - Finish `install.sh`
-- Create github action to build and push binary.
 
 ## Contribute
 
