@@ -1,7 +1,9 @@
 [package]
 name = "encrypt-me"
-version = "0.1.0"
+description = "Encrypt and encrypt files by shifting bytes."
+version = "1.0.0"
 edition = "2021"
+license = "GPL-3.0-or-later"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
