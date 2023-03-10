@@ -70,4 +70,4 @@ curl -L https://raw.githubusercontent.com/RotrixLOL/encrypt-me/main/install.sh |
 
 ## Contribute
 
-You can contribute to this project if you want. The only rule is that you have to use [conventional commits](conventionalcommits.org) and common sense.
+You can contribute to this project if you want. The only rule is that you have to use [conventional commits](https://conventionalcommits.org) and common sense.
